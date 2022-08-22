@@ -1,0 +1,19 @@
+body{
+    background-color: #57A773;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.row{
+    display: flex;
+    justify-content: end;
+}
+.cuadro-de-texto{
+    background-color: #FFFFFF;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+}
