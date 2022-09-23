@@ -1,19 +1,23 @@
-body{
-    background-color: #57A773;
+.img{
+    border-radius: 50%;
+    width: 20%;
 }
-.navbar{
+.presentacion{
+    padding: 10px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+}
+.shark{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    margin: 3px;
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    max-width: 100%;
 }
 
-.row{
-    display: flex;
-    justify-content: end;
-}
-.cuadro-de-texto{
-    background-color: #FFFFFF;
-    padding: 5px;
-}
-h1{
-    text-align: center;
-}
