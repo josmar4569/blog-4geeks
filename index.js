@@ -1,4 +1,4 @@
-const usuarioJorge = ["Jtutortecnico"]
+/*const usuarioJorge = ["Jtutortecnico"]
 const contraseñaJorge = [1234] 
 const usuarioDavid = ["Dtutoreconomico"]
 const contraseñaDavid =[2345]
@@ -25,4 +25,4 @@ function usuarios(){
     }
     return usuarios
 }
-console.log()
+console.log()*/
